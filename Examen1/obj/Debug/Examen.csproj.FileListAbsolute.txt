@@ -1,0 +1,10 @@
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\bin\Debug\Baseline.dll
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\obj\Debug\Examen.csproj.CopyComplete
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\sorti\Desktop\Prograll\Examen 1\Examen\Examen\obj\Debug\Examen.pdb
